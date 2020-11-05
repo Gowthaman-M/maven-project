@@ -1,4 +1,4 @@
-package com.examly.app;
+package com.mycompany.app;
 
 /**
  * Hello world!
@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "App is working!!" );
+        System.out.println( "Hello World!" );
     }
 }
